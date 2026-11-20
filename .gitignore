@@ -1,0 +1,17 @@
+# secretos
+.env
+
+# base de datos local y logs (se generan solos al ejecutar)
+*.db
+*.sqlite3
+logs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
