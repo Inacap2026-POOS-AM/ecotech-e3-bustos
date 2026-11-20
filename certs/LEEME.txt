@@ -1,0 +1,6 @@
+Aquí va el certificado de Supabase para verificar la conexión SSL:
+
+  Supabase -> Project Settings -> Database -> SSL Configuration -> Download certificate
+
+Guárdalo en esta carpeta con el nombre prod-ca-2021.crt
+(Es un certificado público de la CA de Supabase, no es un secreto.)
